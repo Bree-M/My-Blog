@@ -8,7 +8,7 @@ is_developer = True #boolean
 with_cats = True
 
 
-print("My name is", name)
+print("My name is", name) #print displays the values on the screen by calling the variables.
 print("I am", age, "years old")
 print("I stand at", height)
 print(is_developer)
